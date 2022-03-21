@@ -1,5 +1,5 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px"> ### Hi there <𝚌𝚘𝚍𝚎𝚛𝚜/>!  I am David
-![1](https://github.com/davidbrodrigues/davidbrodrigues/blob/main/assets/name.gif)
+![1](https://github.com/davidbrodrigues/davidbrodrigues/blob/main/assets/banner.gif)
 
 <div align="centre">
 
