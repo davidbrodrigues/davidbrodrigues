@@ -8,4 +8,4 @@
 
  </div>
 
-![carbon](https://github.com/davidbrodrigues/davidbrodrigues/blob/main/assets/code.png)
+![carbon](https://github.com/davidbrodrigues/davidbrodrigues/blob/main/assets/capi2.jpg)
