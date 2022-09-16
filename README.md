@@ -1,4 +1,4 @@
-![1](https://github.com/davidbrodrigues/davidbrodrigues/blob/main/assets/banner.gif)
+![1](https://github.com/davidbrodrigues/davidbrodrigues/blob/main/assets/capi.gif)
 
 <div align="centre">
 
