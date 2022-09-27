@@ -1,4 +1,4 @@
-![1](https://github.com/davidbrodrigues/davidbrodrigues/blob/main/assets/capi.gif)
+![1]()
 
 <div align="centre">
 
@@ -8,4 +8,4 @@
 
  </div>
 
-![carbon](https://github.com/davidbrodrigues/davidbrodrigues/blob/main/assets/capi2.jpg)
+![carbon]()
